@@ -12,6 +12,10 @@
 
 <h2> ✨ Certifications:</h2>
 
+- [Google Tech Support Fundamentals](https://github.com/ChrisCyber1/GoogleCert)
+
+- [IBM Introduction to Tech Support](https://github.com/ChrisCyber1/IBMCert)
+
 
 <h2> 🤳 Connect with me:</h2>
 
