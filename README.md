@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
  - [Self Hosted Help Desk](https://github.com/ChrisCyber1/Self-Hosted-Help-Desk)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/ChrisCyber1/ActiveDirect)
 
 <h2>📺 YouTube Videos</h2>
 
