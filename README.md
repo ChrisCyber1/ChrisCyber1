@@ -8,7 +8,7 @@
 
 - [Self Hosted Help Desk Demonstration](https://www.youtube.com/watch?v=Km4mTmHMfy4)
 
--  [Active Directory Bulk User Creation](https://www.youtube.com/watch?v=7KgQ5Cl6WYE)
+-  [Active Directory Bulk User Creation Demonstration](https://www.youtube.com/watch?v=7KgQ5Cl6WYE)
 
 <h2> ✨ Certifications:</h2>
 
