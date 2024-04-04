@@ -1,12 +1,12 @@
 <h1>Hi, I'm Chris! 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
- - [Self Hosted Help Desk](https://github.com/joshmadakor1/AD_PS)
+ - [Self Hosted Help Desk](https://github.com/ChrisCyber1/Self-Hosted-Help-Desk)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📺 YouTube Videos</h2>
 
-- [Activite Directory Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Self Hosted Help Desk Finished](https://www.youtube.com/watch?v=Km4mTmHMfy4)
 
 <h2> 🤳 Connect with me:</h2>
 
