@@ -1,6 +1,7 @@
 <h1>Hi, I'm Chris! 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
+ - [Self Hosted Help Desk](https://github.com/joshmadakor1/AD_PS)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📺 YouTube Videos</h2>
